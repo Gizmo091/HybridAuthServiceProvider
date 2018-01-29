@@ -1,5 +1,5 @@
 {
-    "name": "junker/hybridauth-service-provider",
+    "name": "gizmo091/hybridauth-service-provider",
     "description": "Silex HybridAuth Service Provider",
     "keywords": ["silex","hybridauth","hybrid auth","oauth","auth"],
     "license": "MIT",
